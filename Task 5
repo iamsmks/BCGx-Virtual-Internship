@@ -1,26 +1,15 @@
-Executive Summary – BCGx Data Science Analysis
-Objective
-The objective of this analysis was to identify key drivers impacting business performance and develop a predictive model to support data-driven decision-making for the SME division.
-Key Findings
-A small segment of customers contributes disproportionately to overall revenue, indicating strong opportunities for targeted engagement.
-Several behavioral and transactional variables were identified as strong predictors of customer outcomes.
-The predictive model successfully identifies high-value and at-risk customers, enabling proactive business strategies.
-Most Important Metric
-The model achieved strong predictive performance, enabling accurate identification of high-value customers and risk segments.
-Targeting these segments can significantly improve customer retention and revenue generation.
-Business Impact
-Enables focused marketing efforts on high-value customers, improving ROI.
-Reduces customer churn through early identification of at-risk segments.
-Supports more efficient allocation of resources across the SME division.
-Potential to increase revenue while reducing unnecessary operational costs.
-Recommendations
-Prioritize high-value customer segments with personalized offers and retention strategies.
-Implement the predictive model into business workflows for real-time decision-making.
-Continuously monitor and retrain the model with updated data to maintain accuracy.
-Next Steps
-Deploy the model into production systems for operational use.
-Integrate insights into CRM and marketing platforms.
-Conduct A/B testing to measure the effectiveness of targeted strategies.
-Scale the solution across other business units if successful.
-Conclusion
-This analysis provides actionable insights and a scalable predictive solution that can enhance decision-making, improve customer retention, and drive measurable business growth.
+Discounts may not be the best strategy to
+reduce churn
+• Given that customers are not overly price sensitive,
+more customer outreach is needed to determine the
+best retention strategies
+Churn is high in the SME division
+• Nearly 10% across ~15k customers
+Factors influencing likelihood to churn can
+be measured and predicted
+• A sensitivity analysis was conducted to analyze the
+impact of price on churn
+Price sensitivity is not the primary driver
+• Net and gross margin on electricity and
+consumption are the largest drivers of churn over
+the past 12 months
